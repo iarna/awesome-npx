@@ -88,6 +88,10 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [npm-windows-upgrade](https://www.npmjs.com/package/npm-windows-upgrade) - upgrade your npm on Windows even when `npm i -g npm` does not work
 `npx npm-windows-upgrade`
 
+### [npm-show-versions](https://github.com/iarna/npm-show-versions) - show versions, dist-tags and restrictions
+`npx npm-show-versions awesome-npx`
+`npx npm-show-versions awesome-npx@~1.0.0`
+
 ### [nsp](https://github.com/nodesecurity/nsp) - scan your npm project for vulnerabilities and security alerts
 `npx nsp check`
 
