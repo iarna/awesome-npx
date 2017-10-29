@@ -47,6 +47,10 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [handbrake-cli](https://github.com/iarna/handbrake-cli) - (install and) run the handbrake CLI for video encoding on Mac and Windows
 `npx handbrake-cli`
 
+### [http-codes-cli](https://github.com/zacanger/http-codes-cli) - check what an http status code means
+`npx http-codes-cli 404`
+`npx http-codes-cli 'Not Found'`
+
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
 
