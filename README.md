@@ -112,6 +112,10 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [trymodule](https://www.npmjs.com/package/trymodule) - open up a Node REPL with a module you're considering trying without installing anything
 `npx trymodule colors`
 
+### [create-bot](https://github.com/telegraf/create-bot) - scaffold Telegram chatbot
+`npx create-bot`
+`npx create-bot my-cool-chatbot`
+
 ## 😺 fun
 
 ### [benny-hill](https://npm.im/benny-hill) - plays benny-hill theme music while a command is running
