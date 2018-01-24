@@ -69,6 +69,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [okimdone](https://github.com/zkat/okimdone) - execute a long-running command and be told out loud when it's done
 `npx okimdone npm install`
 
+### [onionfile](https://github.com/shesek/onionfile) - easily share files over tor hidden services
+`npx onionfile /path/to/file.txt`
+
 ### [pa11y](https://github.com/pa11y/pa11y) - check websites for accessibility issues
 `npx pa11y http://example.com`
 
@@ -78,7 +81,6 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ### [strip-ansi-cli](https://github.com/chalk/strip-ansi-cli) - remove terminal color codes from piped text
 `echo -e "\033[33m hello" | npx strip-ansi-cli`
-
 
 ## 🐢🚀 node.js development
 
