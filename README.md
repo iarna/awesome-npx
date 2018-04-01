@@ -39,6 +39,10 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npm dist-tag ls react | grep latest | npx clipboard-cli #copy`
 `npx clipboard-cli #paste`
 
+### [create-bot](https://github.com/telegraf/create-bot) - scaffold Telegram chatbot
+`npx create-bot`
+`npx create-bot my-cool-chatbot`
+
 ### [decode-zhuyin](https://github.com/tpai/decode-zhuyin) - decode Chinese word to Zhuyin password
 `npx decode-zhuyin <text>`
 
@@ -120,9 +124,8 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [trymodule](https://www.npmjs.com/package/trymodule) - open up a Node REPL with a module you're considering trying without installing anything
 `npx trymodule colors`
 
-### [create-bot](https://github.com/telegraf/create-bot) - scaffold Telegram chatbot
-`npx create-bot`
-`npx create-bot my-cool-chatbot`
+### [wtfwith](https://github.com/jehy/wtfwith) - check usage of multiple instances of libraries in your project
+`npx wtfwith lodash` or `npx wtfwith everything`
 
 ## 😺 fun
 
