@@ -122,8 +122,8 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [lolcatjs](https://github.com/robertboloc/lolcatjs) - colorful rainbow text from a file or stdin
 `echo hello | npx lolcatjs --animate` `cat /dev/urandom | base64 | npx lolcatjs`
 
-### [qrip](https://github.com/watilde/qrip) - generate QR codes in your terminal
-`npx qrip https://random.cat` `npx qrip "$(npm info qrip homepage)"`
+### [qrcode-terminal](https://github.com/gtanner/qrcode-terminal) - generate QR codes in your terminal
+`npx qrcode-terminal https://random.cat` `npx qrcode-terminal "$(npm info qrip homepage)"`
 
 ### [workin-hard](https://github.com/jshemas/workinHard) - a clone of [hackertyper.com](http://hackertyper.com/)
 `npx workin-hard`
